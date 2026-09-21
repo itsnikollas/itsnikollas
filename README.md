@@ -4,6 +4,6 @@ Sou Nikollas, estudante da escola técnica ETEC do curso de Desenvolvimento de S
 gamer e clt.
 
 Linguagens:
-- PHP
-- MySQL
+- JavaScript
+- C++
 - 6x1
